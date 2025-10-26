@@ -13,8 +13,8 @@ The organization is subject to **GDPR** and **PCI DSS** requirements.
 **Desired State:**  
 Adopt a **Zero Trust Architecture**, ensure continuous **regulatory compliance**, and achieve **audit readiness** through robust infrastructure, code, endpoint, and vendor governance controls.
 
-[
-](https://www.loom.com/share/91f67eecd6d24af385e8927ac9517043)
+https://www.loom.com/share/91f67eecd6d24af385e8927ac9517043)
+
 ---
 
 ## Executive Summary
