@@ -2,9 +2,11 @@
 # Cybersecurity Risk Assessment – Company XYZ
 
 
-Here is a recorded a Loom video walkthrough of me presenting the assessment, which you can view here.
+Here is a recorded a Loom video walkthrough of me presenting the assessment: 
 
 https://www.loom.com/share/91f67eecd6d24af385e8927ac9517043)
+
+
 
 ## Overview
 This repository documents a comprehensive cybersecurity risk assessment for **Company XYZ**, a mid-sized technology enterprise operating in both the **United States** and the **European Union**. The assessment identifies key vulnerabilities, evaluates their likelihood and impact, and provides actionable remediation strategies aligned with recognized security frameworks and compliance mandates.
