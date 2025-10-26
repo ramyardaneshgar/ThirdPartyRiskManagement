@@ -1,6 +1,11 @@
 
 # Cybersecurity Risk Assessment – Company XYZ
 
+
+Here is a recorded a Loom video walkthrough of me presenting the assessment, which you can view here.
+
+https://www.loom.com/share/91f67eecd6d24af385e8927ac9517043)
+
 ## Overview
 This repository documents a comprehensive cybersecurity risk assessment for **Company XYZ**, a mid-sized technology enterprise operating in both the **United States** and the **European Union**. The assessment identifies key vulnerabilities, evaluates their likelihood and impact, and provides actionable remediation strategies aligned with recognized security frameworks and compliance mandates.
 
@@ -13,7 +18,6 @@ The organization is subject to **GDPR** and **PCI DSS** requirements.
 **Desired State:**  
 Adopt a **Zero Trust Architecture**, ensure continuous **regulatory compliance**, and achieve **audit readiness** through robust infrastructure, code, endpoint, and vendor governance controls.
 
-https://www.loom.com/share/91f67eecd6d24af385e8927ac9517043)
 
 ---
 
