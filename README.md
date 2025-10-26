@@ -1,12 +1,10 @@
-# ThirdPartyRiskManagement
-Comprehensive cybersecurity risk assessment, covering AWS infrastructure, source code, endpoints, compliance, and third-party security.
-
-**By Ramyar Daneshgar**
 
 # Cybersecurity Risk Assessment – Company XYZ
 
 ## Overview
 This repository documents a comprehensive cybersecurity risk assessment for **Company XYZ**, a mid-sized technology enterprise operating in both the **United States** and the **European Union**. The assessment identifies key vulnerabilities, evaluates their likelihood and impact, and provides actionable remediation strategies aligned with recognized security frameworks and compliance mandates.
+
+By Ramyar Daneshgar
 
 **Baseline State:**  
 Company XYZ operates on **AWS Cloud**, uses **GitHub** for source control, supports a **remote workforce** with local administrator privileges, and engages a **third-party development team in Ukraine**.  
@@ -15,6 +13,8 @@ The organization is subject to **GDPR** and **PCI DSS** requirements.
 **Desired State:**  
 Adopt a **Zero Trust Architecture**, ensure continuous **regulatory compliance**, and achieve **audit readiness** through robust infrastructure, code, endpoint, and vendor governance controls.
 
+[
+](https://www.loom.com/share/91f67eecd6d24af385e8927ac9517043)
 ---
 
 ## Executive Summary
